@@ -1,3 +1,10 @@
+Devnology Community Day 2014 Code of Conduct
+============================================
+
+This repository contains translations of the Devnology Community Day 2014 Code of Conduct. It is taken from the [confcodeofconduct.com][]. The README of the project is kept for future reference.
+
+[confcodeofconduct.com]: http://confcodeofconduct.com/
+
 confcodeofconduct.com
 =====================
 
